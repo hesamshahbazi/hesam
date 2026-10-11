@@ -1,6 +1,6 @@
 # Hi, I'm Hesam 👋
 
-🎓 Informatik Student at Hochschule Köln (2nd Semester)  
+🎓 Informatik Student at Technische Hochschule Köln (3rd Semester)  
 🤖 Interested in AI, Automation & Software Development  
 💡 Building AI workflow prototypes using n8n & OpenAI  
 🌱 Currently improving my Python skills  
